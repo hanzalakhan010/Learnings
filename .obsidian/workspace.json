@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shared DB , Shared schema.md",
+                "file": "Multi-tenant-applications/Shared DB , Shared schema.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Shared DB , Shared schema.md",
+                "file": "Multi-tenant-applications/Shared DB , Shared schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Shared DB , Shared schema.md",
+                "file": "Multi-tenant-applications/Shared DB , Shared schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Shared DB , Shared schema.md",
+                "file": "Multi-tenant-applications/Shared DB , Shared schema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,9 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f05d6ec28555771f",
+  "active": "7ded00e64cd885f8",
   "lastOpenFiles": [
-    "Shared DB , Shared schema.md",
+    "Multi-tenant-applications/Shared DB , Shared schema.md",
     "Multi-tenant-applications",
     "Welcome.md"
   ]
