@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3cf8208c5161f3bc",
+        "id": "833251ec65818423",
         "type": "tabs",
         "children": [
           {
-            "id": "a6ac406f2e3d5064",
+            "id": "f05d6ec28555771f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Shared DB , Shared schema.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "09420634db857ede",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f93244c91754e841",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Shared DB , Shared schema"
             }
           }
         ]
@@ -106,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Shared DB , Shared schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Shared DB , Shared schema"
             }
           },
           {
@@ -124,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Shared DB , Shared schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Shared DB , Shared schema"
             }
           },
           {
@@ -152,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Shared DB , Shared schema.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Shared DB , Shared schema"
             }
           }
         ]
@@ -178,8 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6ac406f2e3d5064",
+  "active": "f05d6ec28555771f",
   "lastOpenFiles": [
+    "Shared DB , Shared schema.md",
+    "Multi-tenant-applications",
     "Welcome.md"
   ]
 }
